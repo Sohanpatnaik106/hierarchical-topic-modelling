@@ -1,0 +1,15 @@
+cluhtm/fasttext_wiki/datasets
+cluhtm/fasttext_wiki/results
+cluhtm/textual_folds
+cluhtm/titles_and_abstracts
+topic-titleandabstractdocuments_3_-1
+reference-titleandabstractdocuments_3_-1
+cluwords_titleandabstractdocuments.npz
+cluwords_title_and_abstract_documents.npz
+title_and_abstract_documents_0_-1.pkl
+title_and_abstract_documents_3_-1.pkl
+title_and_abstract_documents.log
+titleandabstractdocuments_3_-1.pkl
+titleandabstractdocuments.log
+wiki-news-300d-1M.vec.zip
+cluhtm/wiki-news-300d-1M.vec
